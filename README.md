@@ -63,5 +63,5 @@ Advice: Drink plenty of fluids, take rest.
 Warning: Consult a doctor if fever lasts more than 2 days.
 
 Author :
-Devoloped by Team : Not-Zero(∅)
+Devoloped by KONDA SHIVAMANI
 As part of the AI For Good Hackathon - Open Innovation Track.
